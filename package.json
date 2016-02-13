@@ -1,0 +1,29 @@
+{
+  "name": "three-window-resize",
+  "version": "1.0.0",
+  "description": "three.js window resize as an npm module, adapted from https://github.com/jeromeetienne/threex.windowresize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/data-doge/three-window-resize.git"
+  },
+  "keywords": [
+    "threejs",
+    "three",
+    "three.js",
+    "window",
+    "resize",
+    "windowresize",
+    "threex.windowresize",
+    "threex"
+  ],
+  "author": "data-doge <eugene@enspiral.com> (http://fuckafucka.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/data-doge/three-window-resize/issues"
+  },
+  "homepage": "https://github.com/data-doge/three-window-resize#readme"
+}
