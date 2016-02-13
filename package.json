@@ -1,6 +1,6 @@
 {
   "name": "three-window-resize",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "three.js extension to help handle window resize",
   "main": "index.js",
   "scripts": {
