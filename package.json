@@ -1,6 +1,6 @@
 {
   "name": "three-window-resize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "@jeromeetienne's threex.windowresize (https://github.com/jeromeetienne/threex.windowresize) repackaged as a node module",
   "main": "index.js",
   "scripts": {
