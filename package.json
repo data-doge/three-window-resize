@@ -1,7 +1,7 @@
 {
   "name": "three-window-resize",
   "version": "1.0.3",
-  "description": "@jeromeetienne's threex.windowresize (https://github.com/jeromeetienne/threex.windowresize) repackaged as a node module",
+  "description": "three.js extension to help handle window resize",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
