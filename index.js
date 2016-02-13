@@ -1,10 +1,20 @@
 module.exports = function (THREE) {
 
   /**
-	 * @author jeromeetienne / https://github.com/jeromeetienne
-	 * @author SebastianNette / https://github.com/SebastianNette
-	 */
+   * @author jeromeetienne / https://github.com/jeromeetienne
+   * @author SebastianNette / https://github.com/SebastianNette
+   */
 
+  /** @namespace */
+  var THREEx	= THREEx || {}
+
+  /**
+   * Update renderer and camera when the window is resized
+   *
+   * @param {Object} renderer the renderer to update
+   * @param {Object} Camera the camera to update
+   * @param {Function} dimension callback for renderer size
+  */
   THREEx.WindowResize	= function(renderer, camera, dimension){
   	dimension 	= dimension || function(){ return { width: window.innerWidth, height: window.innerHeight } }
   	var callback	= function(){
