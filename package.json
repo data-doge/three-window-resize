@@ -1,6 +1,6 @@
 {
   "name": "three-window-resize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "three.js window resize as an npm module, adapted from https://github.com/jeromeetienne/threex.windowresize",
   "main": "index.js",
   "scripts": {
